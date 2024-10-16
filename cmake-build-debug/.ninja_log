@@ -1,0 +1,5 @@
+# ninja log v5
+1	102	7507632551224588	CMakeFiles/testgithub.dir/main.c.obj	1b9e92c3f25441e4
+102	222	7507632552405955	testgithub.exe	b8722229aa7aec02
+2	40	7507632625759860	CMakeFiles/testgithub.dir/main.c.obj	1b9e92c3f25441e4
+40	92	7507632626253662	testgithub.exe	b8722229aa7aec02
