@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int i;
+    int i;//aggiunta del commento a
     for(i = 0; i<10; i++){
         printf("%d  ", i);
     }
